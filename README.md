@@ -2,7 +2,7 @@
 
 This is my personal portfolio website showcasing my work in full-stack web development, including professional projects and technical applications.
 
-🔗 Live Website: https://yourusername.github.io/kavya-portfolio/
+🔗 Live Website: https://nameiskavya.github.io/kavya-portfolio/
 
 ## About
 I’m a full-stack web developer with a background in software engineering and experience building production websites and data-driven applications.
@@ -19,7 +19,7 @@ I’m a full-stack web developer with a background in software engineering and e
 - GitHub Pages (deployment)
 
 ## Contact
-- LinkedIn: https://linkedin.com/in/your-link](https://www.linkedin.com/in/kavya-udalagama/
+- LinkedIn: https://www.linkedin.com/in/kavya-udalagama/
 - GitHub: https://github.com/nameiskavya
 
 ---
