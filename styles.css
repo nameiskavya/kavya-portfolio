@@ -153,7 +153,7 @@ code { font-family: inherit; }
 .featured-project {
   position: relative;
   border: 1px solid var(--accent);
-}
+} 
 .featured-project::before {
   content: "Pinned Project";
   position: absolute;
