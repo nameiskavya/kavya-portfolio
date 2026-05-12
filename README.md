@@ -3,7 +3,7 @@
 A developer-focused personal portfolio website showcasing full-stack web development, production hospitality website work, technical projects, experience, education, and contact links.
 
 ## Live Website
-Add your GitHub Pages link here after deployment.
+(https://nameiskavya.github.io/kavya-portfolio/)
 
 ## Built With
 - HTML
