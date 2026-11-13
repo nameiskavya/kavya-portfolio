@@ -1,22 +1,20 @@
-# Kavya Udalagama — Portfolio Website v2.0
+# Kavya Bandaranayaka — Portfolio v3
 
-A developer-focused personal portfolio website showcasing full-stack web development, production hospitality website work, technical projects, experience, education, and contact links.
+Personal portfolio for a process-minded project and technical professional: software engineering background, project management training, and hands-on retail operations experience in Edmonton, AB.
 
-## Live Website
-(https://nameiskavya.github.io/kavya-portfolio/)
+## Live website
+https://nameiskavya.github.io/kavya-portfolio/
 
-## Built With
-- HTML
-- CSS
-- JavaScript
+## Built with
+- HTML, CSS, a little JavaScript
+- Fraunces + DM Sans (Google Fonts), Tabler Icons
 - GitHub Pages
 
-## Featured Work
-- Hospitality websites from eBeyonds
-- Course Registration System
-- Azure DevOps CI/CD Pipeline
+## Featured work
+- Shop floor workflow system (client case study)
 - Retail Analytics Dashboard
-- Emergency Dispatch Simulation Dashboard
-- Coffee Ordering CRUD System
-
-Built with ❤️, HTML, CSS, JavaScript, and coffee.
+- Alberta Road Risk & Infrastructure System
+- Emergency Dispatch Dashboard (simulation)
+- AI Document Q&A Assistant
+- Hotel websites at eBeyonds
+- Course Registration System
